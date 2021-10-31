@@ -9,6 +9,6 @@ try
     text(0.15,0.5,str1,'Interpreter','latex', 'FontSize',48);
     text(0.15,0.2,str2,'Interpreter','latex', 'FontSize',48);
 catch ex
-    disp('Помилка:');
+    disp('РџРѕРјРёР»РєР°:');
     disp(ex.message);
 end
